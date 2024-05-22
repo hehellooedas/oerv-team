@@ -3,6 +3,16 @@
 <!-- 
 请仔细阅读 Intern/Intern-Transition.md
 -->
+## 赵飞扬
+gitee:@April_Zhao
+
+github:@hehellooedas 
+
+加入时间: 2024年5月22日
+
+邮箱: apirlapril2@gmail.com
+
+
 
 ## 周锐发 (离队)
 gitee:@apodxx
